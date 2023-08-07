@@ -1,18 +1,12 @@
-### Hi there 👋
+# Olá, me chamo Caio Henrique! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**CaioHLuwi/CaioHLuwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no ENIAC
+- 🌱 Atualmente estou aprendendo Python, Banco de dados, e JavaScript
+- 👯 Estou procurando colaborar em projetos para adquirir novos conhecimentos
+- 🤔 Estou procurando ajuda com oportunidades em empresas de desenvolvimento.
+- 📫 Como entrar em contato comigo: Email - caiohenriquelw2004@gmail.com
+- 😄 Pronomes: Ele/dele
+- ⚡ Curiosidade: Já fiz curso técnico em programação durante o ensino médio, e por esse motivo já sei HTML e CSS e PHP Básico.
 
 ![Snake animation](https://github.com/CaioHLuwi/CaioHLuwi/blob/output/github-contribution-grid-snake.svg)
