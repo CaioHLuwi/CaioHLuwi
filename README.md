@@ -1,7 +1,7 @@
-![Snake animation](https://github.com/CaioHLuwi/CaioHLuwi/blob/output/github-contribution-grid-snake.svg)
-
-# Olá, me chamo Caio Henrique! 
 ## Bem vindo ao meu perfil GitHub 👋
+<div style="display: flex">
+   <img src="https://i.ibb.co/x8rXCFV/Caio-Git-Hub.png" width="400" height="auto">
+</div>
 
 ## Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,6 +37,6 @@
 ## Entre em contato
 
 <a href="mailto:caiohenriquelw2004@gmail.com"><img src="https://img.shields.io/badge/-caiohenriquelw2004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Caio%20Henrique-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/caio-h-588956223/"><img src="https://img.shields.io/badge/-Caio%20Henrique-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/akacaio_"><img src="https://img.shields.io/badge/-@akacaio__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
           
