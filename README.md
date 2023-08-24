@@ -1,7 +1,4 @@
 ## Bem vindo ao meu perfil GitHub 👋
-<div style="display: flex">
-   <img src="https://i.ibb.co/x8rXCFV/Caio-Git-Hub.png" width="400" height="auto">
-</div>
 
 ## Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
