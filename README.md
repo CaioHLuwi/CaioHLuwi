@@ -1,4 +1,4 @@
-## Caio Henrique - Desenvolvedor Front-end
+## Caio Henrique - Desenvolvedor Fullstack
 
 ### 🚀 Tecnologias que estudo e estudei durante a minha jornada:
 
